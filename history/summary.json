@@ -5,22 +5,30 @@
     "slug": "crvx-fr",
     "status": "up",
     "uptime": "100.00%",
-    "time": 383
+    "time": 367
   },
   {
     "name": "PhoneInfoga demo",
-    "url": "https://demo.phoneinfoga.crvx.fr/",
+    "url": "https://demo.phoneinfoga.crvx.fr",
     "slug": "phone-infoga-demo",
     "status": "up",
     "uptime": "100.00%",
-    "time": 317
+    "time": 313
   },
   {
-    "name": "Nextcloud instance",
+    "name": "Nextcloud instance 1",
     "url": "$SECRET_SITE",
-    "slug": "nextcloud-instance",
+    "slug": "nextcloud-instance-1",
     "status": "up",
     "uptime": "100.00%",
-    "time": 387
+    "time": 1045
+  },
+  {
+    "name": "Onlyoffice instance",
+    "url": "$SECRET_SITE_2",
+    "slug": "onlyoffice-instance",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 582
   }
 ]
