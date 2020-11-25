@@ -1,42 +1,26 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "crvx.fr",
+    "url": "https://www.crvx.fr",
+    "slug": "crvx-fr",
     "status": "up",
-    "uptime": "100.00",
-    "time": 87
+    "uptime": "100.00%",
+    "time": 318
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "PhoneInfoga demo",
+    "url": "https://demo.phoneinfoga.crvx.fr/",
+    "slug": "phone-infoga-demo",
     "status": "up",
-    "uptime": "100.00",
-    "time": 133
+    "uptime": "100.00%",
+    "time": 293
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 341
-  },
-  {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
+    "name": "Nextcloud instance",
+    "url": "$NEXTCLOUD_URL",
+    "slug": "nextcloud-instance",
     "status": "down",
-    "uptime": "98.31",
+    "uptime": "8.78%",
     "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 49
   }
 ]
