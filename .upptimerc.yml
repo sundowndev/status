@@ -9,7 +9,7 @@ sites:
   - name: PhoneInfoga demo
     url: https://demo.phoneinfoga.crvx.fr/
   - name: Nextcloud instance
-    url: $NEXTCLOUD_URL
+    url: $SECRET_SITE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
