@@ -5,7 +5,7 @@
     "slug": "crvx-fr",
     "status": "up",
     "uptime": "100.00%",
-    "time": 371
+    "time": 383
   },
   {
     "name": "PhoneInfoga demo",
@@ -13,14 +13,14 @@
     "slug": "phone-infoga-demo",
     "status": "up",
     "uptime": "100.00%",
-    "time": 322
+    "time": 317
   },
   {
     "name": "Nextcloud instance",
-    "url": "$NEXTCLOUD_URL",
+    "url": "$SECRET_SITE",
     "slug": "nextcloud-instance",
-    "status": "down",
-    "uptime": "0.56%",
-    "time": 0
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 387
   }
 ]
