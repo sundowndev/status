@@ -6,7 +6,7 @@ repo: status # Your Github repository name
 sites:
   - name: crvx.fr
     url: https://www.crvx.fr
-  - name: PhoneInfoga demo
+  - name: PhoneInfoga demo instance
     url: https://demo.phoneinfoga.crvx.fr
   - name: Nextcloud instance
     url: $SECRET_SITE
@@ -21,10 +21,10 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/sundowndev/website/4c0105bdd2afad35513211cebed1364f72750fd3/src/static/spy.svg
   name: "Sundowndev's status page"
   introTitle: ""
-  introMessage: This is a status page for my personal infrastructure running few web services.
+  introMessage: This is a personal status page for my infrastructure running few web services.
   navbar:
     - title: Status
-      href: /
+      href: /status
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
