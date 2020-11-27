@@ -13,7 +13,7 @@
     "slug": "phone-infoga-demo-instance",
     "status": "up",
     "uptime": "100.00%",
-    "time": 498
+    "time": 392
   },
   {
     "name": "Nextcloud instance",
@@ -21,7 +21,7 @@
     "slug": "nextcloud-instance",
     "status": "up",
     "uptime": "100.00%",
-    "time": 631
+    "time": 713
   },
   {
     "name": "Onlyoffice instance",
@@ -29,6 +29,6 @@
     "slug": "onlyoffice-instance",
     "status": "up",
     "uptime": "100.00%",
-    "time": 573
+    "time": 706
   }
 ]
