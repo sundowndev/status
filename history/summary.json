@@ -5,7 +5,7 @@
     "slug": "crvx-fr",
     "status": "up",
     "uptime": "100.00%",
-    "time": 390
+    "time": 375
   },
   {
     "name": "PhoneInfoga demo instance",
@@ -13,7 +13,7 @@
     "slug": "phone-infoga-demo-instance",
     "status": "up",
     "uptime": "100.00%",
-    "time": 392
+    "time": 377
   },
   {
     "name": "Nextcloud instance",
@@ -21,7 +21,7 @@
     "slug": "nextcloud-instance",
     "status": "up",
     "uptime": "100.00%",
-    "time": 713
+    "time": 855
   },
   {
     "name": "Onlyoffice instance",
@@ -29,6 +29,6 @@
     "slug": "onlyoffice-instance",
     "status": "up",
     "uptime": "100.00%",
-    "time": 706
+    "time": 710
   }
 ]
