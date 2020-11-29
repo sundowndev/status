@@ -12,6 +12,8 @@ sites:
     url: $SECRET_SITE
   - name: Onlyoffice instance
     url: $SECRET_SITE_2
+  - name: Dreamvo website
+    url: https://dreamvo.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
