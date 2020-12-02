@@ -5,7 +5,7 @@
     "slug": "crvx-fr",
     "status": "up",
     "uptime": "100.00%",
-    "time": 384
+    "time": 385
   },
   {
     "name": "PhoneInfoga demo instance",
@@ -13,7 +13,7 @@
     "slug": "phone-infoga-demo-instance",
     "status": "up",
     "uptime": "100.00%",
-    "time": 381
+    "time": 390
   },
   {
     "name": "Nextcloud instance",
@@ -21,7 +21,7 @@
     "slug": "nextcloud-instance",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1089
+    "time": 1171
   },
   {
     "name": "Onlyoffice instance",
@@ -29,7 +29,7 @@
     "slug": "onlyoffice-instance",
     "status": "up",
     "uptime": "100.00%",
-    "time": 857
+    "time": 828
   },
   {
     "name": "Dreamvo website",
@@ -37,6 +37,6 @@
     "slug": "dreamvo-website",
     "status": "up",
     "uptime": "100.00%",
-    "time": 358
+    "time": 363
   }
 ]
