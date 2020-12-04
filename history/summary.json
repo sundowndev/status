@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 384,
-    "timeDay": 363,
+    "time": 383,
+    "timeDay": 367,
     "timeWeek": 376,
-    "timeMonth": 384,
-    "timeYear": 384
+    "timeMonth": 383,
+    "timeYear": 383
   },
   {
     "name": "PhoneInfoga demo instance",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 378,
-    "timeDay": 280,
-    "timeWeek": 378,
-    "timeMonth": 378,
-    "timeYear": 378
+    "time": 371,
+    "timeDay": 312,
+    "timeWeek": 366,
+    "timeMonth": 371,
+    "timeYear": 371
   },
   {
     "name": "Nextcloud instance",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1396,
-    "timeDay": 1294,
-    "timeWeek": 1466,
-    "timeMonth": 1396,
-    "timeYear": 1396
+    "time": 1438,
+    "timeDay": 1904,
+    "timeWeek": 1622,
+    "timeMonth": 1438,
+    "timeYear": 1438
   },
   {
     "name": "Onlyoffice instance",
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 794,
-    "timeDay": 454,
-    "timeWeek": 841,
-    "timeMonth": 794,
-    "timeYear": 794
+    "time": 768,
+    "timeDay": 476,
+    "timeWeek": 799,
+    "timeMonth": 768,
+    "timeYear": 768
   },
   {
     "name": "Dreamvo website",
@@ -73,10 +73,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 364,
-    "timeDay": 369,
-    "timeWeek": 364,
-    "timeMonth": 364,
-    "timeYear": 364
+    "time": 360,
+    "timeDay": 339,
+    "timeWeek": 360,
+    "timeMonth": 360,
+    "timeYear": 360
   }
 ]
