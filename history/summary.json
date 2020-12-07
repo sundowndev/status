@@ -2,6 +2,7 @@
   {
     "name": "crvx.fr",
     "url": "https://www.crvx.fr",
+    "icon": "https://favicons.githubusercontent.com/www.crvx.fr",
     "slug": "crvx-fr",
     "status": "up",
     "uptime": "100.00%",
@@ -9,15 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 400,
-    "timeDay": 665,
-    "timeWeek": 429,
-    "timeMonth": 400,
-    "timeYear": 400
+    "time": 397,
+    "timeDay": 348,
+    "timeWeek": 412,
+    "timeMonth": 397,
+    "timeYear": 397,
+    "dailyMinutesDown": {}
   },
   {
     "name": "PhoneInfoga demo instance",
     "url": "https://demo.phoneinfoga.crvx.fr",
+    "icon": "https://favicons.githubusercontent.com/demo.phoneinfoga.crvx.fr",
     "slug": "phone-infoga-demo-instance",
     "status": "up",
     "uptime": "100.00%",
@@ -25,15 +28,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 405,
-    "timeDay": 707,
-    "timeWeek": 426,
-    "timeMonth": 405,
-    "timeYear": 405
+    "time": 401,
+    "timeDay": 348,
+    "timeWeek": 420,
+    "timeMonth": 401,
+    "timeYear": 401,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nextcloud instance",
     "url": "$SECRET_SITE",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud-instance",
     "status": "up",
     "uptime": "100.00%",
@@ -41,15 +46,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1471,
-    "timeDay": 2185,
-    "timeWeek": 1652,
-    "timeMonth": 1471,
-    "timeYear": 1471
+    "time": 1503,
+    "timeDay": 1951,
+    "timeWeek": 1750,
+    "timeMonth": 1503,
+    "timeYear": 1503,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Onlyoffice instance",
     "url": "$SECRET_SITE_2",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "onlyoffice-instance",
     "status": "up",
     "uptime": "100.00%",
@@ -57,15 +64,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 789,
-    "timeDay": 672,
-    "timeWeek": 797,
-    "timeMonth": 789,
-    "timeYear": 789
+    "time": 777,
+    "timeDay": 617,
+    "timeWeek": 662,
+    "timeMonth": 777,
+    "timeYear": 777,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dreamvo website",
     "url": "https://dreamvo.com",
+    "icon": "https://favicons.githubusercontent.com/dreamvo.com",
     "slug": "dreamvo-website",
     "status": "up",
     "uptime": "100.00%",
@@ -73,10 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 385,
-    "timeDay": 598,
-    "timeWeek": 385,
-    "timeMonth": 385,
-    "timeYear": 385
+    "time": 395,
+    "timeDay": 475,
+    "timeWeek": 399,
+    "timeMonth": 395,
+    "timeYear": 395,
+    "dailyMinutesDown": {}
   }
 ]
