@@ -40,36 +40,40 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud-instance",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1561,
-    "timeDay": 1738,
-    "timeWeek": 1741,
-    "timeMonth": 1561,
-    "timeYear": 1561,
-    "dailyMinutesDown": {}
+    "time": 1504,
+    "timeDay": 1020,
+    "timeWeek": 1561,
+    "timeMonth": 1504,
+    "timeYear": 1504,
+    "dailyMinutesDown": {
+      "2020-12-13": 0
+    }
   },
   {
     "name": "Onlyoffice instance",
     "url": "$SECRET_SITE_2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "onlyoffice-instance",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 765,
-    "timeDay": 721,
-    "timeWeek": 718,
-    "timeMonth": 765,
-    "timeYear": 765,
-    "dailyMinutesDown": {}
+    "time": 734,
+    "timeDay": 401,
+    "timeWeek": 638,
+    "timeMonth": 734,
+    "timeYear": 734,
+    "dailyMinutesDown": {
+      "2020-12-13": 0
+    }
   },
   {
     "name": "Dreamvo website",
