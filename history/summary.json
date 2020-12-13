@@ -40,19 +40,19 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud-instance",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1504,
-    "timeDay": 1020,
-    "timeWeek": 1561,
-    "timeMonth": 1504,
-    "timeYear": 1504,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1493,
+    "timeDay": 1096,
+    "timeWeek": 1526,
+    "timeMonth": 1493,
+    "timeYear": 1493,
     "dailyMinutesDown": {
-      "2020-12-13": 0
+      "2020-12-13": 17
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "$SECRET_SITE_2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "onlyoffice-instance",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 734,
-    "timeDay": 401,
-    "timeWeek": 638,
-    "timeMonth": 734,
-    "timeYear": 734,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 735,
+    "timeDay": 521,
+    "timeWeek": 652,
+    "timeMonth": 735,
+    "timeYear": 735,
     "dailyMinutesDown": {
-      "2020-12-13": 0
+      "2020-12-13": 17
     }
   },
   {
