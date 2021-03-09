@@ -20,15 +20,17 @@ status-website:
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/sundowndev/website/4c0105bdd2afad35513211cebed1364f72750fd3/src/static/spy.svg
+  logoUrl: https://avatars.githubusercontent.com/u/16480203
   name: "Sundowndev's status page"
   introTitle: ""
-  introMessage: This is a personal status page for my infrastructure running few web services.
+  introMessage: This is a personal status page for the few web services I run in production.
   navbar:
     - title: Status
       href: /status
-    - title: GitHub
+    - title: Github
       href: https://github.com/$OWNER/$REPO
+    - title: Website
+      href: https://crvx.fr/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
